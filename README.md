@@ -1,4 +1,3 @@
-## Under Construction
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/f657b15b-f32f-421f-8b58-8713f384a03c">
+  <img src="https://github.com/user-attachments/assets/a5ca3142-72f6-472a-962e-cdb126412d95" width="200">
 </div>
