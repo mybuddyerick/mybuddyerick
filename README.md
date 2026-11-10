@@ -7,8 +7,6 @@ I enjoy building things across the stack — from compilers and microcontrollers
 **Languages:** Python · Java · TypeScript · JavaScript · C · F#  
 **Currently working with:** Astro · React · ESP32 · Git
 
-<!-- Restore after the first successful metrics workflow run:
 ### GitHub activity
 
 ![GitHub activity](./github-metrics.svg)
--->
